@@ -17,13 +17,15 @@ This script reduces human error while keeping full control of Git history and br
 - No force pushes
 - No GUI dependencies
 
+  <img src="gitpics/pic2.png" width="400" alt="addpic1">
+
 ---
 
 ## Menu Options
 
 ### 1. Add Files to GitHub
 
-<img src="gitpics/pic2.png" width="400" alt="addpic1">
+
 
 This option guides you through a controlled add–commit–push workflow.
 
