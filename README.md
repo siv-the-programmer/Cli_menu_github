@@ -17,7 +17,7 @@ This script reduces human error while keeping full control of Git history and br
 - No force pushes
 - No GUI dependencies
 
-  <img src="gitpics/pic2.png" width="400" alt="addpic1">
+  <img src="gitpics/pic2.png" width="400" alt="addpic2">
 
 ---
 
@@ -25,6 +25,7 @@ This script reduces human error while keeping full control of Git history and br
 
 ### 1. Add Files to GitHub
 
+ <img src="gitpics/pic3.png" width="400" alt="addpic3">
 
 
 This option guides you through a controlled add–commit–push workflow.
@@ -42,6 +43,9 @@ This prevents pushing to the wrong branch or missing upstream changes.
 ---
 
 ### 2. Delete Files or Directories (Safe Mode)
+
+ <img src="gitpics/pic4.png" width="400" alt="addpic4">
+
 
 This option removes files or folders from both the local repository and GitHub using `git rm`.
 
