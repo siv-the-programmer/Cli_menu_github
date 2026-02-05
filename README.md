@@ -1,5 +1,9 @@
 # GitHub CLI Menu Automation (Bash)
 
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 A lightweight, menu-driven Bash script that automates common GitHub workflows directly from the terminal.  
 Designed for developers who prefer speed, safety, and consistency over manual Git commands or GUI tools.
 
