@@ -23,6 +23,8 @@ This script reduces human error while keeping full control of Git history and br
 
 ### 1. Add Files to GitHub
 
+<img src="gitpics/pic2.png" width="400" alt="addpic1">
+
 This option guides you through a controlled add–commit–push workflow.
 
 What it does:
